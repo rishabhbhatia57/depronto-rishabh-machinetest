@@ -1,0 +1,8 @@
+.carimg {
+    width: 100vw !important;
+    height: 93vh !important;
+}
+
+.carousel-caption {
+    text-shadow: 2px 2px black;
+}

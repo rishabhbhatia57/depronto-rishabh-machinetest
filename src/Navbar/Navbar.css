@@ -1,0 +1,12 @@
+.navbar {
+    background:linear-gradient(135deg, #4f42b5 0%,#5e7ec4 100%);
+    border: none;
+    color: white;
+}
+.nav-options {
+    right: 1vw;
+}
+
+.navbar a{
+    color: rgba(255, 255, 255, 1) !important;
+}
